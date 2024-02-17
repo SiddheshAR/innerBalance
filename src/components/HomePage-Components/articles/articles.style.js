@@ -86,6 +86,7 @@ export const ArticHead = styled.h2`
        font-size:1.4rem;
        margin-left:3px;
        margin-top:3px;
+       cursor:pointer;
        ${breakPoints.lg}{
               font-size:2.4rem;    
        }

@@ -26,8 +26,10 @@ export const Navbar = styled.div`
 `
 
 export const LogoSection = styled.img`
-    width:4rem;
+margin-top:5px;
+    width:180px;
     /* height:3rem; */
+    height:170px;
 `;
 export const ToggleButton = styled.img.attrs({
     src:hamburger

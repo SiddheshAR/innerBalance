@@ -6,7 +6,7 @@ import {NavbarCtn,
   DownArrow,MobileNavLists,NavNest,MobileNavItems
   ,NavbarLg,NavbarLgItems,NavDropDown,NavDropDownItem
 } from './Navbar.style.js';
-import logo from '../media/logo2.png';
+import logo from '../media/orange.png';
 
 const Navbar = () => {
 

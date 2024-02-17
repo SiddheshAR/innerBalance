@@ -31,7 +31,7 @@ export const InfoGrid = ()=>{
         {
             title:"Self-Care",
             media:selfcare,
-            description:"The Amaha app is a digital powerhouse of mental health resources.",
+            description:"The InnerBalance app is a digital powerhouse of mental health resources.",
             description2:"Get access to a personalised plan with 600+ tools, activities, articles & daily reminders to make mental healthcare a part of your routine.",
             link:"Download the App",
             left:true
@@ -39,7 +39,7 @@ export const InfoGrid = ()=>{
         {
             title:"Community",
             media:community,
-            description:"The Amaha Mental Health community is a safe space to share your struggles & get peer support.",
+            description:"The InnerBalance Mental Health community is a safe space to share your struggles & get peer support.",
             description2:"Connect with people from across the globe. Remain anonymous (if you prefer) and get ongoing emotional support in a space moderated by trained experts.",
             link:"Join the Community",
             left:false

@@ -93,6 +93,7 @@ export const ContentLink = styled.a`
     font-weight:bold;
     color:rgb(231, 105, 67);
     text-decoration:underline;
+    cursor:pointer;
 `;
 
 export const ContentImgCtn = styled.img``;
